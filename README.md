@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/docs/4.3/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
-  </a>
+  <img src="cover_1.jpg">
 </p>
 
 <h3 align="center">Bootstrap</h3>
